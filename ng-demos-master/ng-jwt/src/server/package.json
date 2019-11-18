@@ -9,7 +9,7 @@
     "compression": "^1.0.1",
     "body-parser": "^1.0.2",
     "cors": "^2.2.0",
-    "debug": "^0.8.0",
+    "debug": "^4.1.1",
     "static-favicon": "^1.0.2",
     "jsonwebtoken": "^0.3.0",
     "express-jwt": "^0.1.3"
