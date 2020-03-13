@@ -79,7 +79,7 @@
     "karma-sinon": "^1.0.3",
     "merge-stream": "^0.1.5",
     "method-override": "^1.0.2",
-    "minimist": "^0.2.0",
+    "minimist": "^1.2.5",
     "mocha": "^1.20.1",
     "ng-midway-tester": "^2.0.5",
     "phantomjs": "^1.9.7-14",
